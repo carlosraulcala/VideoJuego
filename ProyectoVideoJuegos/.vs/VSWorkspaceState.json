@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Models"
   ],
-  "SelectedNode": "\\ProyectoVideoJuegos.sln",
+  "SelectedNode": "\\Models\\VideoJuegos.cs",
   "PreviewInSolutionExplorer": false
 }
