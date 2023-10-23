@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gY0SRhf/+ZFqXsP2SKZ0w7HfA69lyPerZA056ov+8RbT9QZKdNZb6tY6gqwEhPW6eQrDm1Gx02RmQ9jRFKEcvg==",
+  "dgSpecHash": "79WLOQD8SecUiPWjBoKaUbnfsUlK4x0jYG0qgJ1vZGyjhL5mi/szzEb/mJhXsel2pL7po4D+cp0zuDMmsH6YAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Desktop\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\source\\VideoJuego\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.12\\microsoft.entityframeworkcore.7.0.12.nupkg.sha512",
     "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.12\\microsoft.entityframeworkcore.abstractions.7.0.12.nupkg.sha512",
