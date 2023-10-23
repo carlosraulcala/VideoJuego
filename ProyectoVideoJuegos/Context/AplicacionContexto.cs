@@ -10,6 +10,7 @@ namespace ProyectoWebApp.Context
             : base(options) { }
 
         public DbSet<Usuario> Usuarios { get; set; }
+        public DbSet<Email> Emails { get; set; }
 
     }
 }
