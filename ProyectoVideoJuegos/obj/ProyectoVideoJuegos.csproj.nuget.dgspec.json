@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Desktop\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj": {}
+    "C:\\Users\\LENOVO\\source\\VideoJuego\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Desktop\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj": {
+    "C:\\Users\\LENOVO\\source\\VideoJuego\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Desktop\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\source\\VideoJuego\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj",
         "projectName": "ProyectoVideoJuegos",
-        "projectPath": "C:\\Users\\LENOVO\\Desktop\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\source\\VideoJuego\\ProyectoVideoJuegos\\ProyectoVideoJuegos.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Desktop\\ProyectoVideoJuegos\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\source\\VideoJuego\\ProyectoVideoJuegos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
