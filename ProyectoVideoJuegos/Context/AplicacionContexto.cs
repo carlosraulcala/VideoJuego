@@ -11,6 +11,7 @@ namespace ProyectoWebApp.Context
 
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Email> Emails { get; set; }
+        public DbSet<VideoJuegos> VideoJuegos { get; set; }
 
     }
 }
